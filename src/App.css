@@ -1,0 +1,41 @@
+.header{
+    text-align: center;
+}
+.login-form{
+    margin-left:30%;
+    width:350px;
+    border:1px solid blue;
+    margin-top: 20vh;
+    padding:30px;
+    border-radius: 5px;
+}
+.form{
+padding:10px;
+line-height: 20px;  
+}
+.form-input{
+    height: 30px;
+    width:300px;
+    margin:5px;
+    border-radius: 5px;
+}
+.button{
+    height: 30px;
+    color: #fff;
+    width:100px;
+    border-radius: 5px;
+    background: blueviolet;
+    margin-left: 10px;
+    font-size: 14px;
+}
+table{
+    margin-top: 30px;
+    border: 1px solid rebeccapurple;
+    
+}
+td,tr,th{
+    padding: 5px;
+    border: 1px solid rebeccapurple;
+    text-align: left;
+
+}
