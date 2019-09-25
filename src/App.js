@@ -58,7 +58,7 @@ class App extends React.Component {
   constructor(props){
     super();
     this.formValidation = this.formValidation.bind(this);
-    this.state = {isLoginPage : false}
+    this.state = {isLoginPage : true}
   }
   formValidation= (values)=>{
     if(!(values.username === 'hruday@gmail.com' && values.password === 'hruday123'))
