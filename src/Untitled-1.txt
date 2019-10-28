@@ -1,0 +1,24 @@
+// initialize project 
+
+step 1 : create new folder with project name 
+
+step 2 : git init
+
+step 3 : git pull url
+
+step 4 : always before commit any changes check for any changes in repostory
+          for that make pull request
+
+step 5 : 
+
+chaanges
+
+first do stage (+)
+
+add message and commit(Right mark) the code 
+
+then click on more actions and click on push
+
+git remote add origin url
+
+Sairam#19

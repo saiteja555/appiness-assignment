@@ -71,7 +71,7 @@ class App extends React.Component {
   }
 
   render(){
-    console.log("test line")
+    console.log("test line");
     const { isLoginPage } = this.state;
     return <Provider store={store}>
     <div style={{ padding: 15 }}>
