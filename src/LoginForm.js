@@ -13,6 +13,7 @@ const renderField = ({ input, label, type, meta: { touched, error } }) => (
 )
 
 const LoginForm = props => {
+  console.log("test comment")
   const { error, handleSubmit, pristine, reset, submitting } = props
   return (
     <form onSubmit={handleSubmit(props.validateFun)} className="login-form">
